@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hw-20-deploy/static/css/main.798d15da.chunk.css",
+    "main.js": "/hw-20-deploy/static/js/main.7defd9cb.chunk.js",
+    "main.js.map": "/hw-20-deploy/static/js/main.7defd9cb.chunk.js.map",
+    "runtime-main.js": "/hw-20-deploy/static/js/runtime-main.723812a2.js",
+    "runtime-main.js.map": "/hw-20-deploy/static/js/runtime-main.723812a2.js.map",
+    "static/js/2.cf713d6f.chunk.js": "/hw-20-deploy/static/js/2.cf713d6f.chunk.js",
+    "static/js/2.cf713d6f.chunk.js.map": "/hw-20-deploy/static/js/2.cf713d6f.chunk.js.map",
+    "index.html": "/hw-20-deploy/index.html",
+    "static/css/main.798d15da.chunk.css.map": "/hw-20-deploy/static/css/main.798d15da.chunk.css.map",
+    "static/js/2.cf713d6f.chunk.js.LICENSE.txt": "/hw-20-deploy/static/js/2.cf713d6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.723812a2.js",
+    "static/js/2.cf713d6f.chunk.js",
+    "static/css/main.798d15da.chunk.css",
+    "static/js/main.7defd9cb.chunk.js"
+  ]
+}
